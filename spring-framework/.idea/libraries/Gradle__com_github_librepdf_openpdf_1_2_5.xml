@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.librepdf:openpdf:1.2.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.librepdf/openpdf/1.2.5/a1c073313e7b1b376a2ccaf27ad02c557efb706a/openpdf-1.2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.librepdf/openpdf/1.2.5/f099d0715e4ec21ca0b65ce16ceb4e07fd158e94/openpdf-1.2.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

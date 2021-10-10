@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/aspectj/AbstractAspectJAdvice.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/aspectj/DeclareParentsAdvisor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/AbstractAspectJAdvisorFactory.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/AnnotationAwareAspectJAutoProxyCreator.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/BeanFactoryAspectJAdvisorsBuilder.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/InstantiationModelAwarePointcutAdvisorImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/ReflectiveAspectJAdvisorFactory.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/config/AopConfigUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/framework/AdvisedSupport.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/framework/JdkDynamicAopProxy.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/framework/ProxyFactory.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/framework/ReflectiveMethodInvocation.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/framework/adapter/DefaultAdvisorAdapterRegistry.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/framework/autoproxy/AbstractAdvisorAutoProxyCreator.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/framework/autoproxy/AbstractAutoProxyCreator.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/support/AopUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/support/DelegatePerTargetObjectIntroductionInterceptor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/support/AbstractBeanDefinitionReader.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/support/DefaultSingletonBeanRegistry.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/xml/BeanDefinitionParserDelegate.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/xml/DefaultNamespaceHandlerResolver.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/xml/XmlBeanDefinitionReader.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/spring-context/src/main/java/com/xiangxue/jack/bean/Student.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/spring-context/src/main/java/org/springframework/context/annotation/AutoProxyRegistrar.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-context/src/main/java/org/springframework/context/annotation/ConfigurationClassPostProcessor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-context/src/main/java/org/springframework/context/annotation/ConfigurationClassUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-context/src/main/java/org/springframework/context/annotation/EnableAspectJAutoProxy.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-core/src/main/java/org/springframework/core/MethodIntrospector.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-jdbc/src/main/java/org/springframework/jdbc/datasource/DataSourceTransactionManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-tx/src/main/java/org/springframework/transaction/annotation/AnnotationTransactionAttributeSource.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-tx/src/main/java/org/springframework/transaction/annotation/TransactionManagementConfigurationSelector.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-tx/src/main/java/org/springframework/transaction/config/TxAdviceBeanDefinitionParser.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-tx/src/main/java/org/springframework/transaction/support/AbstractPlatformTransactionManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-web/src/main/java/org/springframework/web/context/AbstractContextLoaderInitializer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-web/src/main/java/org/springframework/web/method/support/InvocableHandlerMethod.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-webmvc/src/main/java/org/springframework/web/servlet/DispatcherServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-webmvc/src/main/java/org/springframework/web/servlet/FrameworkServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-webmvc/src/main/java/org/springframework/web/servlet/config/annotation/WebMvcConfigurationSupport.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-webmvc/src/main/java/org/springframework/web/servlet/config/annotation/WebMvcConfigurerAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-webmvc/src/main/java/org/springframework/web/servlet/handler/AbstractHandlerMapping.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-webmvc/src/main/java/org/springframework/web/servlet/handler/AbstractHandlerMethodMapping.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-webmvc/src/main/java/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-webmvc/src/main/java/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerMapping.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-webmvc/src/main/java/org/springframework/web/servlet/mvc/method/annotation/ServletInvocableHandlerMethod.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-webmvc/src/main/java/org/springframework/web/servlet/support/AbstractDispatcherServletInitializer.java" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
