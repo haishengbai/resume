@@ -62,8 +62,7 @@
     config file listed above.
    </p>
 <pre>
-&lt;role rolename="manager-gui"/&gt;
-&lt;user username="tomcat" password="s3cret" roles="manager-gui"/&gt;
+  &lt;role rolename="manager-gui"/&gt;
 </pre>
    <p>
     Note that for Tomcat 7 onwards, the roles required to use the manager

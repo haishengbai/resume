@@ -43,7 +43,6 @@
    </p>
 <pre>
 &lt;role rolename="admin-gui"/&gt;
-&lt;user username="tomcat" password="s3cret" roles="admin-gui"/&gt;
 </pre>
    <p>
     Note that for Tomcat 7 onwards, the roles required to use the host manager

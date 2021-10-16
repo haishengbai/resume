@@ -66,8 +66,6 @@
     <!--@Value()-->
     <bean class="com.xiangxue.jack.bean.PropertyBean" id="propertyBean">
         <property name="username" value="Jack"/>
-        <property name="password" value="xxxx"/>
-        <!--<aop:scoped-proxy/>-->
     </bean>
 
     <bean class="com.xiangxue.jack.bean.DecoratorBean" id="decoratorBean"

@@ -1217,8 +1217,6 @@ file might look something like this:</p>
 
   <!-- Configure properties to access the Manager application -->
   <property name="url"      value="http://localhost:8080/manager/text"/>
-  <property name="username" value="myusername"/>
-  <property name="password" value="mypassword"/>
 
   <!-- Configure the path to the Tomcat installation -->
   <property name="catalina.home" value="/usr/local/apache-tomcat"/>
